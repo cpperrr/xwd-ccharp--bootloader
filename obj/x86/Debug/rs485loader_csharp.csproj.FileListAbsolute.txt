@@ -1,0 +1,51 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.MainFrame.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\bin\Debug\rs485loader_csharp.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\bin\Debug\rs485loader_csharp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.pdb
+E:\U盘备份\分类\欣旺达\升级上位机\rs485loader_csharp\rs485loader_csharp\bin\Debug\rs485loader_csharp.exe
+E:\U盘备份\分类\欣旺达\升级上位机\rs485loader_csharp\rs485loader_csharp\bin\Debug\rs485loader_csharp.pdb
+E:\U盘备份\分类\欣旺达\升级上位机\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.MainFrame.resources
+E:\U盘备份\分类\欣旺达\升级上位机\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.Properties.Resources.resources
+E:\U盘备份\分类\欣旺达\升级上位机\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.RS232ConfigFrame.resources
+E:\U盘备份\分类\欣旺达\升级上位机\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.csproj.GenerateResource.Cache
+E:\U盘备份\分类\欣旺达\升级上位机\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.exe
+E:\U盘备份\分类\欣旺达\升级上位机\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.pdb
+E:\U盘备份\分类\欣旺达\升级上位机\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.csprojResolveAssemblyReference.cache
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.exe
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.pdb
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\bin\Debug\rs485loader_csharp.exe
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\bin\Debug\rs485loader_csharp.pdb
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.MainFrame.resources
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.Properties.Resources.resources
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.RS232ConfigFrame.resources
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.csproj.GenerateResource.Cache
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\bin\Debug\DevComponents.DotNetBar2.dll
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\bin\Debug\DevComponents.DotNetBar2.xml
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.csprojResolveAssemblyReference.cache
+K:\upan\develop 备份\c# rs485loader\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.exe
+K:\upan\develop 备份\c# rs485loader\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.pdb
+C:\yg\dev\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.exe
+C:\yg\dev\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.pdb
+C:\yg\dev\rs485loader_csharp\rs485loader_csharp\bin\Debug\rs485loader_csharp.exe
+C:\yg\dev\rs485loader_csharp\rs485loader_csharp\bin\Debug\rs485loader_csharp.pdb
+C:\yg\dev\rs485loader_csharp\rs485loader_csharp\bin\Debug\DevComponents.DotNetBar2.xml
+C:\yg\dev\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\yg\dev\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.MainFrame.resources
+C:\yg\dev\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.Properties.Resources.resources
+C:\yg\dev\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.RS232ConfigFrame.resources
+C:\yg\dev\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\yg\dev\rs485loader_csharp\rs485loader_csharp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\project\升级UART2\STM32F103C8T6_IAP\XWD STM32BOOTLOAD\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.exe
+D:\project\升级UART2\STM32F103C8T6_IAP\XWD STM32BOOTLOAD\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.pdb
+D:\project\升级UART2\STM32F103C8T6_IAP\XWD STM32BOOTLOAD\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.MainFrame.resources
+D:\project\升级UART2\STM32F103C8T6_IAP\XWD STM32BOOTLOAD\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.Properties.Resources.resources
+D:\project\升级UART2\STM32F103C8T6_IAP\XWD STM32BOOTLOAD\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.RS232ConfigFrame.resources
+D:\project\升级UART2\STM32F103C8T6_IAP\XWD STM32BOOTLOAD\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.csproj.GenerateResource.Cache
+D:\project\升级UART2\STM32F103C8T6_IAP\XWD STM32BOOTLOAD\rs485loader_csharp\bin\Debug\rs485loader_csharp.exe
+D:\project\升级UART2\STM32F103C8T6_IAP\XWD STM32BOOTLOAD\rs485loader_csharp\bin\Debug\rs485loader_csharp.pdb
+D:\project\升级UART2\STM32F103C8T6_IAP\XWD STM32BOOTLOAD\rs485loader_csharp\bin\Debug\DevComponents.DotNetBar2.xml
+D:\project\升级UART2\STM32F103C8T6_IAP\XWD STM32BOOTLOAD\rs485loader_csharp\obj\x86\Debug\rs485loader_csharp.csprojResolveAssemblyReference.cache

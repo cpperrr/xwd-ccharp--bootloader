@@ -1,0 +1,34 @@
+c:\users\administrator\documents\visual studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\bin\Release\rs485loader_csharp.exe
+c:\users\administrator\documents\visual studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\bin\Release\rs485loader_csharp.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.exe
+c:\users\administrator\documents\visual studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.MainFrame.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.csprojResolveAssemblyReference.cache
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.exe
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.pdb
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\bin\Release\rs485loader_csharp.exe
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.csprojResolveAssemblyReference.cache
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.MainFrame.resources
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.Properties.Resources.resources
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.RS232ConfigFrame.resources
+C:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.csproj.GenerateResource.Cache
+E:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.exe
+E:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.pdb
+E:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\bin\Release\rs485loader_csharp.exe
+E:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.csprojResolveAssemblyReference.cache
+E:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.MainFrame.resources
+E:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.Properties.Resources.resources
+E:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.RS232ConfigFrame.resources
+E:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.csproj.GenerateResource.Cache
+E:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\bin\Release\rs485loader_csharp.pdb
+F:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.exe
+F:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.pdb
+F:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\bin\Release\rs485loader_csharp.exe
+F:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\bin\Release\rs485loader_csharp.pdb
+F:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.csprojResolveAssemblyReference.cache
+F:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.MainFrame.resources
+F:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.Properties.Resources.resources
+F:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.RS232ConfigFrame.resources
+F:\2017 work\py_work\stm32\rs485loader_csharp\rs485loader_csharp\obj\x86\Release\rs485loader_csharp.csproj.GenerateResource.Cache
